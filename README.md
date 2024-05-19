@@ -30,7 +30,8 @@ The main files and directories in this project are:
 
 ## Data Pipeline   
 
-![diagram](https://github.com/SpixerD/Amazighini/assets/120631086/cb9297f9-84ae-47d8-80f6-87ad2cadb103)
+![pipeline](https://github.com/SpixerD/Amazighini/assets/120631086/f641ab54-9eb9-4205-b0d2-6cd0467d96b6)
+
 
 
 The data for this project was collected from Amazigh speakers who recorded Arabic phrases translated into Tachelhit Amazigh. The phrases focused on common small talk and frequently used phrases by rescue teams.
