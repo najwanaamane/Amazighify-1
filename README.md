@@ -20,8 +20,6 @@ Amazighini is an AI-powered project focusing on preserving Amazigh heritage by t
 - [License](#license)
 
 ## Project Structure
-![diagram](https://github.com/SpixerD/Amazighini/assets/120631086/cb9297f9-84ae-47d8-80f6-87ad2cadb103)
-![interface](https://github.com/SpixerD/Amazighini/assets/120631086/53361db8-5437-416f-ac89-20d628d414ff)
 
 
 The main files and directories in this project are:
@@ -32,7 +30,7 @@ The main files and directories in this project are:
 
 ## Data Pipeline   
 
-file:///home/ubuntu/T%C3%A9l%C3%A9chargements/diagram%20(1).png
+![diagram](https://github.com/SpixerD/Amazighini/assets/120631086/cb9297f9-84ae-47d8-80f6-87ad2cadb103)
 
 
 The data for this project was collected from Amazigh speakers who recorded Arabic phrases translated into Tachelhit Amazigh. The phrases focused on common small talk and frequently used phrases by rescue teams.
@@ -99,7 +97,9 @@ Future enhancements to this project may include:
 
 ## Demo
 
-- [Image Demo](file:///home/ubuntu/T%C3%A9l%C3%A9chargements/WhatsApp%20Image%202024-05-19%20at%2006.40.11.jpeg)
+![interface](https://github.com/SpixerD/Amazighini/assets/120631086/53361db8-5437-416f-ac89-20d628d414ff)
+
+
 - [Video Demo](file:///home/ubuntu/T%C3%A9l%C3%A9chargements/WhatsApp%20Video%202024-05-19%20at%2007.06.20.mp4)
 
 ## Links
