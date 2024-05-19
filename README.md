@@ -20,6 +20,9 @@ Amazighini is an AI-powered project focusing on preserving Amazigh heritage by t
 - [License](#license)
 
 ## Project Structure
+![diagram](https://github.com/SpixerD/Amazighini/assets/120631086/cb9297f9-84ae-47d8-80f6-87ad2cadb103)
+![interface](https://github.com/SpixerD/Amazighini/assets/120631086/53361db8-5437-416f-ac89-20d628d414ff)
+
 
 The main files and directories in this project are:
 
