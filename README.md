@@ -1,5 +1,5 @@
 
-# Amazighini: Fine-Tuning SeamlessM4T for Amazigh-English Translation
+# Amazighini: Fine-Tuning SeamlessM4T for Amazigh-Arabic and English Translation
 
 ## Overview
 
@@ -27,7 +27,10 @@ The main files and directories in this project are:
 - `fine-tuned-seamless-m4t/`: Directory where the fine-tuned models will be saved.
 - `dataset_amazigh/`: Directory containing the collected audio recordings and annotations.
 
-## Data Pipeline
+## Data Pipeline   
+
+file:///home/ubuntu/T%C3%A9l%C3%A9chargements/diagram%20(1).png
+
 
 The data for this project was collected from Amazigh speakers who recorded Arabic phrases translated into Tachelhit Amazigh. The phrases focused on common small talk and frequently used phrases by rescue teams.
 
