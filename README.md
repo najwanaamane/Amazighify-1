@@ -66,16 +66,10 @@ The model fine-tuning process involves setting up the SeamlessM4T model and trai
 
 Evaluating the model's performance on the test dataset to ensure its accuracy and efficiency.
 
-### Steps:
+Steps:
+Loading Test Data: Loading the test dataset.  
+Evaluating Model: Using the trained model to generate translations and comparing them with the ground truth using WER (Word Error Rate).
 
-1. **Loading Test Data**: Loading the test dataset.
-2. **Evaluating Model**: Using the trained model to generate translations and comparing them with the ground truth.
-
-```python
-# Evaluate model
-metrics = trainer.evaluate(eval_dataset)
-print(metrics)
-```
 
 ## Usage
 
@@ -110,6 +104,3 @@ Future enhancements to this project may include:
 - [Notebook](https://huggingface.co/spaces/ThinkAI-Morocco/Amazighini)
 - [Canva](https://www.canva.com/design/DAGFoKNyRTg/F_f4-X_WwRWIBf2O7ywFWw/edit?utm_content=DAGFoKNyRTg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-## Contributing
-
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) for more information.
