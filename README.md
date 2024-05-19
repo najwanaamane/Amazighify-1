@@ -101,7 +101,7 @@ Future enhancements to this project may include:
 ![interface](https://github.com/SpixerD/Amazighini/assets/120631086/53361db8-5437-416f-ac89-20d628d414ff)
 
 
-- [Video Demo](file:///home/ubuntu/T%C3%A9l%C3%A9chargements/WhatsApp%20Video%202024-05-19%20at%2007.06.20.mp4)
+- [Video Demo] https://drive.google.com/file/d/1ggCiGUbni3VET-tzonltsn7N1fH8X0Ip/view?usp=sharing
 
 ## Links
 
