@@ -99,8 +99,8 @@ Future enhancements to this project may include:
 
 ## Demo
 
-- [Image Demo]  (file:///home/ubuntu/T%C3%A9l%C3%A9chargements/WhatsApp%20Image%202024-05-19%20at%2006.40.11.jpeg)
-- [Video Demo]  (file:///home/ubuntu/T%C3%A9l%C3%A9chargements/WhatsApp%20Video%202024-05-19%20at%2007.06.20.mp4)
+- [Image Demo](file:///home/ubuntu/T%C3%A9l%C3%A9chargements/WhatsApp%20Image%202024-05-19%20at%2006.40.11.jpeg)
+- [Video Demo](file:///home/ubuntu/T%C3%A9l%C3%A9chargements/WhatsApp%20Video%202024-05-19%20at%2007.06.20.mp4)
 
 ## Links
 
@@ -110,7 +110,3 @@ Future enhancements to this project may include:
 ## Contributing
 
 Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) for more information.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
