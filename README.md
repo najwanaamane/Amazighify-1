@@ -1,5 +1,5 @@
 
-# Amazighini: Fine-Tuning SeamlessM4T for Amazigh-Arabic and English Translation
+# Amazighify: Fine-Tuning SeamlessM4T for Amazigh-Arabic and English Translation
 
 ## Overview
 
