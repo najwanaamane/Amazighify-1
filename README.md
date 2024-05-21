@@ -98,7 +98,6 @@ Future enhancements to this project may include:
 
 ## Demo
 
-![interface](https://github.com/SpixerD/Amazighini/assets/120631086/53361db8-5437-416f-ac89-20d628d414ff)
 
 
 - [Video Demo] https://drive.google.com/file/d/1ggCiGUbni3VET-tzonltsn7N1fH8X0Ip/view?usp=sharing
